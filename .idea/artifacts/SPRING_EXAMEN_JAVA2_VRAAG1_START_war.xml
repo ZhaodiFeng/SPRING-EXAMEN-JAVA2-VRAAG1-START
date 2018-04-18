@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SPRING-EXAMEN-JAVA2-VRAAG1-START:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-examen-vraag1-0.0.1.war">
+      <element id="artifact" artifact-name="SPRING-EXAMEN-JAVA2-VRAAG1-START:war exploded" />
+    </root>
+  </artifact>
+</component>
