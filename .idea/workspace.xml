@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="766df674-fb9c-456a-9f86-e387330c6f9b" name="Default" comment="" />
+    <list default="true" id="766df674-fb9c-456a-9f86-e387330c6f9b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/EightBallApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/EightBallApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/jpa/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/jpa/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/jpa/QuestionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/jpa/QuestionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/model/EightBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/model/EightBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/test/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/test/SpringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/view/EventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/view/EventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ap/spring/view/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ap/spring/view/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/edu.ap.spring/spring-examen-vraag1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/edu.ap.spring/spring-examen-vraag1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/ap/spring/test/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/ap/spring/test/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/ap/spring/test/SpringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/ap/spring/test/SpringTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +64,8 @@
       <file leaf-file-name="EventHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/view/EventHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,6 +183,9 @@
     <findStrings>
       <find>testSameAnswer</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -424,7 +442,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524049558312</updated>
-      <workItem from="1524049563609" duration="5159000" />
+      <workItem from="1524049563609" duration="5778000" />
     </task>
     <servers />
   </component>
@@ -447,9 +465,12 @@
     <history-entry file="SpringTest - 2018.04.18 at 14h 28m 18s.xml">
       <configuration name="SpringTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SpringTest - 2018.04.18 at 14h 33m 17s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5159000" />
+    <option name="totallyTimeSpent" value="5778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -463,12 +484,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.82564104" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.12783661" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.32991454" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969743" visible="true" weight="0.2852292" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991454" />
+      <window_info anchor="bottom" x="22" y="133" width="1322" height="461" id="Run" order="3" sideWeight="0.4969743" type="WINDOWED" weight="0.78268254" />
       <window_info anchor="bottom" id="Spring" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.4991453" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83054006" visible="true" weight="0.37367624" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83054006" visible="true" weight="0.37367624" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5059423" />
@@ -634,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/view/EventHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
